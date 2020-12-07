@@ -1,0 +1,8 @@
+name: Test
+main: com.bplaczek.Test
+version: 0.0.1
+description: A basic plugin to test Intelj IDEA and the wonders of Spigot API.
+commands:
+  boom:
+    description: Makes things go boom.
+    usage: /<command>
